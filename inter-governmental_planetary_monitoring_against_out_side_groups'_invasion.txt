@@ -1,0 +1,143 @@
+### High-level structure
+
+| Layer | Focus | Core Function |
+|-------|-------|---------------|
+| Strategic | Planetary doctrine & governance | Set norms, authority, red lines |
+| Operational | Intergovernmental fusion & coordination | Detect, share, respond |
+| Tactical | Institutional hardening & local execution | Implement protocols, feed data up |
+
+---
+
+## 1. Strategic layer: Planetary governance architecture
+
+**Objective:** Create a *shared planetary doctrine* for detecting and neutralizing engineered informant ecosystems and coercive proxy networks.
+
+- **Planetary Security Council (PSC):**  
+  **Role:** Top-level body (UN+major blocs) that defines the threat category: “Externally engineered coercive informant ecosystems” as a planetary security risk.  
+  **Functions:**  
+  - Set legal and ethical red lines  
+  - Mandate minimum CI transparency standards  
+  - Authorize joint investigations when cross-border anomalies appear
+
+- **Planetary Norms & Treaties:**  
+  **Core norms:**  
+  - Prohibition on external manipulation of CI pipelines  
+  - Shared obligation to report suspected synthetic vulnerability patterns  
+  - Mutual assistance in dismantling coercively controlled networks
+
+---
+
+## 2. Operational layer: Intergovernmental fusion architecture
+
+**Objective:** Build a *persistent, structured, multi-state detection and response grid*.
+
+- **Global Informant Integrity Fusion Center (GIIFC):**  
+  A joint analytic hub where states send *metadata*, not raw case files.
+
+  **Inputs:**  
+  - CI recruitment statistics  
+  - anomaly scores (synthetic vulnerability, dual dependency, etc.)  
+  - network penetration patterns  
+  - oversight/audit events
+
+  **Outputs:**  
+  - Cross-national anomaly alerts  
+  - Pattern-of-life reports on suspected Outside Group activity  
+  - Risk indices per region and sector
+
+- **Regional Fusion Nodes:**  
+  **Role:** EU-level, AU-level, ASEAN-level, etc.  
+  - Aggregate regional data  
+  - Normalize metrics  
+  - Escalate only high-confidence anomalies to GIIFC
+
+- **Secure Interoperability Protocols:**  
+  - Standardized CI metadata schema (no compromising sensitive identities)  
+  - Shared anomaly scoring framework  
+  - Cryptographically signed alerts to prevent spoofing
+
+---
+
+## 3. Tactical layer: National and subnational defense architecture
+
+**Objective:** Harden each state’s institutions while making them interoperable with the planetary grid.
+
+- **National CI Integrity Units:**  
+  Embedded in justice/intelligence ministries.
+
+  **Functions:**  
+  - Implement origin verification protocols  
+  - Run synthetic vulnerability detection on new informants  
+  - Score dual-dependency and coercion indicators  
+  - Push anonymized metrics to regional fusion nodes
+
+- **Institutional Hardening Protocols:**  
+  - **Handler rotation and dual-control:** prevent long-term capture  
+  - **Mandatory multi-agency origin checks:** police + intelligence + financial regulators  
+  - **CI immunity audit trails:** every immunity decision logged and anomaly-scored  
+  - **Red-team units:** simulate Outside Group tactics to test defenses
+
+- **Local Detection Cells:**  
+  - At major law enforcement/intelligence hubs  
+  - Trained to recognize behavioral and network fingerprints of coercive control  
+  - Provide ground-truth feedback to national CI Integrity Units
+
+---
+
+## 4. Data and signal architecture
+
+**Objective:** Turn disparate national signals into a coherent planetary “radar.”
+
+- **Common Signal Taxonomy:**  
+  - Synthetic vulnerability indicators  
+  - Dual-dependency psychological markers  
+  - Non-organic network expansion patterns  
+  - CI cluster anomalies (too-perfect, too-fast, too-wide)
+
+- **Multi-level Signal Flow:**
+
+  ```
+  Local Institutions
+        ↓
+  National CI Integrity Units
+        ↓
+  Regional Fusion Nodes
+        ↓
+  Global Informant Integrity Fusion Center
+        ↓
+  Planetary Security Council
+  ```
+
+- **Feedback Downward:**  
+  PSC → GIIFC → Regions → Nations → Local units  
+  - Alerts  
+  - Updated threat models  
+  - Refined detection algorithms
+
+---
+
+## 5. Response architecture
+
+**Objective:** Coordinate how states act once an Outside Group pattern is detected.
+
+- **Tiered Response:**
+  - **Tier 1 (Analytic):** Intensified monitoring, deeper audits, no public moves.  
+  - **Tier 2 (Operational):** Joint investigations, CI program freezes in affected sectors, targeted institutional hardening.  
+  - **Tier 3 (Strategic):** PSC-level declaration of planetary threat, coordinated sanctions, cyber and counterintelligence operations, emergency legal powers.
+
+- **Principle:**  
+  Response is **graduated** and **evidence-driven**, to avoid overreaction that itself destabilizes institutions.
+
+---
+
+## 6. Non-obvious design insight
+
+The architecture must **protect sovereignty while defeating a supra-sovereign threat**.
+
+So the design rule is:
+
+- **Data up, authority down.**  
+  - States share *signals*, not control.  
+  - Planetary bodies share *doctrine and alerts*, not direct operational command.
+
+That balance is what makes an intergovernmental defense architecture politically survivable and operationally effective against an Outside Group trying to implant coercively controlled criminal networks on Earth.
