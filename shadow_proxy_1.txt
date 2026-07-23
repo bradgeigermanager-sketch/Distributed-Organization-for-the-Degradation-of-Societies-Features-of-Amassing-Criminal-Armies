@@ -1,0 +1,39 @@
+## The Shadow Proxy Framework: A Structural Profile
+
+This scenario outlines a sophisticated, high-stakes clandestine strategy where an external entity (state, corporate, or syndicate) co-opts a state-managed confidential informant (CI) ecosystem to build an independent, protected criminal infrastructure.
+
+---
+
+### 1. The Core Aim and Strategic Goal
+
+* **Primary Objective:** To construct a scalable, deniable, and state-shielded network of criminal assets (an "army") controlled not by the host government, but by an external power player.
+* **Secondary Objectives:**
+* Leveraging the host state's legal immunity and law enforcement apparatus as a protective shield and a weapon against rivals.
+* Capturing monopoly control over illicit markets, intelligence pipelines, or strategic geopolitical territory.
+* Maintaining total operational deniability by routing illicit commands through a multi-layered chain of compromised proxies.
+
+
+
+---
+
+### 2. The Players and Their Functional Roles
+
+| Player | Role in the Ecosystem | True Alignment / Motivation |
+| --- | --- | --- |
+| **The Host State Handlers** | Law enforcement or intelligence officers managing the CI program. | Believes they are using criminal assets to harvest targets and solve cases; motivated by bureaucratic metrics and operational success. |
+| **The Protected Informant (The Pivot)** | The unprosecuted criminal operating under state protection. | Self-preservation and profit; plays both sides to maintain immunity while maximizing personal power. |
+| **The Outside Group (The Sponsor)** | A rival intelligence agency, transnational cartel, or corrupt corporate entity. | Co-opts the Pivot to siphon intelligence, hijack state resources, and build a shadow proxy network. |
+| **The Recruited Criminals (The Assets)** | Lower-to-mid-tier operatives pulled into the orbit. | Believes they are working for a powerful underground syndicate or are protected, unaware they are ultimate fodder for state arrests or proxy wars. |
+
+---
+
+### 3. Step-by-Step Execution Format
+
+* **Phase 1: Infiltration and Compromise**
+The Outside Group identifies a high-value confidential informant who possesses deep criminal access and official state protection. Instead of eliminating or arresting them, the group compromises the CI through financial leverage, blackmail (exposing unauthorized crimes hidden from state handlers), or shared ideological/criminal goals.
+* **Phase 2: Hijacking the Feedback Loop**
+The CI continues to feed low-to-mid-level targets to their State Handlers to satisfy official metrics and preserve their immunity. However, the intelligence provided is heavily curated by the Outside Group to systematically eliminate the Outside Group's commercial or territorial rivals using the police as a proxy weapon.
+* **Phase 3: Amassing the Proxy Network**
+Using the state-granted freedom of movement and implied immunity, the CI—now acting as an extension of the Outside Group—begins recruiting, organizing, and arming a wider net of criminal operatives. These operatives view the CI as an untouchable boss because law enforcement never touches them.
+* **Phase 4: Institutional Capture and Exploitation**
+As the network grows, the Outside Group uses the accumulated intelligence, kompromat on state handlers, and controlled criminal operations to exert indirect influence over local economies, political nodes, or security apparatuses, achieving deep structural subversion without ever firing a shot.
